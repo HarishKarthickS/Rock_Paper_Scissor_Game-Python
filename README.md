@@ -2,7 +2,7 @@
 Rock, paper, scissor
 
 # Game description :
-                              Rock ,paper,scissor is an intransitive hand game,usually played between two people,in which each player simultaneously forms one one of the three shapes using the hand.
+Rock ,paper,scissor is an intransitive hand game,usually played between two people,in which each player simultaneously forms one one of the three shapes using the hand.
 
 # Rules :
 Rock, Paper, Scissor is a popular game that is played by two or more players.The players simultaneously choose one of the three option:
